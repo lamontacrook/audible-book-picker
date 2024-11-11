@@ -1,0 +1,23 @@
+{
+  "name": "bookPicker",
+  "id": "bookpicker",
+  "description": "Product Picker",
+  "version": "0.0.1",
+  "headerMenuButtons": [
+    {
+      "label": "Test Button",
+      "needsModal": true,
+      "id": "test-button"
+    },
+    {
+      "label": "Test Button",
+      "needsModal": true,
+      "id": "hznhh-test-button"
+    },
+    {
+      "label": "Select Book",
+      "needsModal": true,
+      "id": "select-book"
+    }
+  ]
+}
